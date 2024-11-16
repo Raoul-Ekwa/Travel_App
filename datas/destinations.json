@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "name": "Amine M'siouri",
+        "images": "https://images.pexels.com/photos/2245436/pexels-photo-2245436.png?auto=compress&cs=tinysrgb&h=130",
+        "description": "A lone traveler walking across the vast desert sands.",
+        "rating": 4.5,
+        "price": "$120",
+        "duration": "3 days",
+        "location": "Sahara Desert, Algeria",
+        "category": "Adventure"
+    },
+    {
+        "id": 1,
+        "name": "Porapak Apichodilok",
+        "images": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "Hand holding a globe against a mountainous backdrop.",
+        "rating": 4.7,
+        "price": "$85",
+        "duration": "2 days",
+        "location": "Himalayas, Nepal",
+        "category": "Travel"
+    },
+    {
+        "id": 2,
+        "name": "Oleksandr P",
+        "images": "https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A woman walking with a suitcase at the airport, ready for her next adventure.",
+        "rating": 4.3,
+        "price": "$50",
+        "duration": "1 day",
+        "location": "JFK Airport, New York",
+        "category": "Travel"
+    },
+    {
+        "id": 3,
+        "name": "Element5 Digital",
+        "images": "https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A hand pointing at a location on the map, with travel essentials in the background.",
+        "rating": 4.8,
+        "price": "$40",
+        "duration": "1 day",
+        "location": "Anywhere, World",
+        "category": "Planning"
+    },
+    {
+        "id": 4,
+        "name": "Te lensFix",
+        "images": "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A woman enjoying a serene boat ride in a tropical setting.",
+        "rating": 4.6,
+        "price": "$200",
+        "duration": "4 days",
+        "location": "Khlong Sok, Thailand",
+        "category": "Adventure"
+    },
+    {
+        "id": 5,
+        "name": "Nubia Navarro (nubikini)",
+        "images": "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A toy car with luggage set against a colorful street backdrop.",
+        "rating": 4.0,
+        "price": "$15",
+        "duration": "1 day",
+        "location": "Miami, USA",
+        "category": "Travel"
+    },
+    {
+        "id": 6,
+        "name": "Vincent Rivaud",
+        "images": "https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "Boats floating on the clear blue waters of Hvar, Croatia.",
+        "rating": 4.9,
+        "price": "$250",
+        "duration": "5 days",
+        "location": "Hvar, Croatia",
+        "category": "Leisure"
+    },
+    {
+        "id": 7,
+        "name": "Element5 Digital",
+        "images": "https://images.pexels.com/photos/1051073/pexels-photo-1051073.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A flat lay of a camera, coffee, and travel essentials for an inspiring trip.",
+        "rating": 4.2,
+        "price": "$60",
+        "duration": "2 days",
+        "location": "London, UK",
+        "category": "Leisure"
+    },
+    {
+        "id": 8,
+        "name": "Ajay Donga",
+        "images": "https://images.pexels.com/photos/2174656/pexels-photo-2174656.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "description": "A joyful couple riding a motorcycle on a palm-lined tropical road.",
+        "rating": 4.3,
+        "price": "$150",
+        "duration": "3 days",
+        "location": "Bali, Indonesia",
+        "category": "Adventure"
+    }
+]
