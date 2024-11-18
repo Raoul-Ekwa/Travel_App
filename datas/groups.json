@@ -1,0 +1,72 @@
+ [
+  {
+      "images": "https://images.pexels.com/photos/6235436/pexels-photo-6235436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 1,
+      "name": "Relaxing Woman in Bedroom",
+      "rating": 4.5,
+      "reviews": 320
+  },
+  {
+      "images": "https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 2,
+      "name": "Hotel Bellhop with Trolley",
+      "rating": 4.7,
+      "reviews": 245
+  },
+  {
+      "images": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 3,
+      "name": "Luxurious Hotel Room Entrance",
+      "rating": 4.8,
+      "reviews": 310
+  },
+  {
+      "images": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 4,
+      "name": "Cozy Modern Hotel Bedroom",
+      "rating": 4.2,
+      "reviews": 128
+  },
+  {
+      "images": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 5,
+      "name": "Tropical Resort at Dusk",
+      "rating": 4.6,
+      "reviews": 402
+  },
+  {
+      "images": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 6,
+      "name": "Spacious Hotel Room",
+      "rating": 4.3,
+      "reviews": 198
+  },
+  {
+      "images": "https://images.pexels.com/photos/53464/sheraton-palace-hotel-lobby-architecture-san-francisco-53464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 7,
+      "name": "Luxurious Hotel Lobby",
+      "rating": 4.9,
+      "reviews": 520
+  },
+  {
+      "images": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 8,
+      "name": "Sunlit Tropical Poolside Resort",
+      "rating": 4.4,
+      "reviews": 350
+  },
+  {
+      "images": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 9,
+      "name": "Elegant Rooftop Pool at Sunset",
+      "rating": 4.8,
+      "reviews": 275
+  },
+  {
+      "images": "https://images.pexels.com/photos/96444/pexels-photo-96444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "id": 10,
+      "name": "Neon Hotel Sign at Dusk",
+      "rating": 4.1,
+      "reviews": 142
+  }
+]
