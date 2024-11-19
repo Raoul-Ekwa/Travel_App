@@ -5,8 +5,12 @@ import { GroupType } from '@/types/groupType'
 import Colors from '@/Constant/Colors'
 import { Ionicons } from '@expo/vector-icons'
 
-const GroupListing = ({ listings }: { listings: GroupType[] }) => {
-  const renderItem = ({ item }: { item: GroupType }) => {
+// Déclaration du composant fonctionnel GroupListing, qui prend une prop "listings" de type GroupType[]
+const GroupListing = ({ listings }: { listings: GroupType[] }) => {  
+  
+    // Fonction renderItem qui est utilisée par FlatList pour rendre chaque élément de la liste
+    const renderItem = ({ item }: { item: GroupType }) => {  
+        // "item" est un objet de type GroupType, représentant un groupe spécifique à afficher
     return (
         <>
             <View style={styles.item}>
@@ -31,7 +35,13 @@ const GroupListing = ({ listings }: { listings: GroupType[] }) => {
         </>
     )
   }
-
+{/*GestureHandlerRootView : Enveloppe le contenu avec ce composant pour gérer les interactions complexes avec les gestes (par exemple, le défilement fluide).
+View : Conteneur principal du composant, appliquant des styles via styles.container.
+Text : Un titre en haut de la section, indiquant que ce sont les "meilleures séries de produits".
+FlatList : Affiche la liste des groupes horizontalement :
+data={listings} : Données provenant de la prop listings.
+renderItem={renderItem} : Utilisation de la fonction renderItem pour chaque élément.
+showsHorizontalScrollIndicator={false} : Masque la barre de défilement horizontale. */}
   return (
     // Envelopper ton composant avec GestureHandlerRootView
     <GestureHandlerRootView style={{ flex: 1 }}>
